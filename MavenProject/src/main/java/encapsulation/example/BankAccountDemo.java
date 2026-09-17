@@ -1,8 +1,8 @@
-package encapsulation;
+package encapsulation.example;
 
 public class BankAccountDemo {
 	
-	private double balance;
+private double balance;
 	
 	public  void setBalance(double balance) {
 		if(balance>=0) {
@@ -15,8 +15,5 @@ public class BankAccountDemo {
 			return balance;
 			
 		}
-
-
-
 
 }

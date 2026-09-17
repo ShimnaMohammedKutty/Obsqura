@@ -1,4 +1,4 @@
-package encapsulationquestion;
+package encapsulation.questions;
 
 public class Main {
 

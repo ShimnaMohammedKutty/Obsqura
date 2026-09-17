@@ -12,3 +12,6 @@ public class Outsideprotected extend ModifiersPublic{
 	}
 
 }*/
+package accessmodifier.outsidepkg;
+
+

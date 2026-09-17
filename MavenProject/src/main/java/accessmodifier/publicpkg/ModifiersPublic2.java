@@ -1,4 +1,4 @@
-package accessmodifiers;
+package accessmodifier.publicpkg;
 
 public class ModifiersPublic2 {
 

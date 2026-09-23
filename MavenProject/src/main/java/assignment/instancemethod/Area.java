@@ -30,7 +30,7 @@ public class Area {
 
      Area area=new Area();
      
-     area.Area(5);
+     area.Area(5.0f);
      area.Area(2, 3);
      area.Area(4);
 

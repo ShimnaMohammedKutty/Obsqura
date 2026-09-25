@@ -1,6 +1,6 @@
 package exceptionhandling;
 
-public class ExceptionTryCatch {
+public class TryCatch {
 
 	public static void main(String[] args) {
 

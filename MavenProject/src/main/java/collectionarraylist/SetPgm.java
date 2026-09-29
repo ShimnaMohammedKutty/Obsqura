@@ -23,11 +23,9 @@ public class SetPgm {
 		System.out.println(fruits);
 		
 		//contains
-		
 		System.out.println(fruits.contains("Orange"));
 		
 		//size
-		
 		System.out.println(fruits.size());
 		
 		//isEmpty

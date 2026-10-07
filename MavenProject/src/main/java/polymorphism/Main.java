@@ -7,7 +7,7 @@ public class Main {
       /*Dispaly only animal class method
 		
 		Animal a=new Animal();
-       a.sound();*/
+        a.sound();*/
 		
 		//For all class method calling need Upcasting
 		
